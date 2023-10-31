@@ -1,27 +1,25 @@
 <h1 align="center">Hi 👋, I'm Moksh Mehan</h1>
 <h3 align="center">A passionate software developer and problem solver. Having experience in building various backend java applications and have a great proficiency in data structures and algorithms. I believe my communication skills, always helps me to stand out in every suspect and I had led many projects in my college time too and have great management and leading skills too.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehanmoksh" alt="mehanmoksh" /></a> </p>
-
 - 🔭 I’m currently working on **a backend music making application using Java MIDI API**
 
-- 🌱 I’m currently learning **Microservices and DSA (in more depth).**
+- 🌱 I’m currently learning : **Microservices and DSA (in more depth).**
 
-- 👯 I’m looking to collaborate on **Full stack projects**
+- 👯 I’m looking to collaborate on : **Full stack projects**
 
-- 🧑🏼‍💻I'm currently open to **Work**
+- 🧑🏼‍💻I'm currently open to : **Work**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mehanmoksh](https://github.com/mehanmoksh)
+- 👨‍💻 All of my projects are available at : [https://github.com/mehanmoksh](https://github.com/mehanmoksh)
 
 - 📝 You can check my coding work here : [https://leetcode.com/Mr_Moksh_Mehan/](https://leetcode.com/Mr_Moksh_Mehan/)
 
-- 💬 Ask me about **Java, Data structures and algorithms, python, C++ and software development.**
+- 💬 Ask me about : **Java, Data structures and algorithms, python, C++ and software development.**
 
-- 📫 How to reach me **itsmokshswork2002@gmail.com**
+- 📫 How to reach me : **itsmokshswork2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mw-xfnPG1g5fEBkReEEV5JsgKVvQPYkl/view?usp=sharing](https://drive.google.com/file/d/1mw-xfnPG1g5fEBkReEEV5JsgKVvQPYkl/view?usp=sharing)
+- 📄 Know about my experiences : [https://drive.google.com/file/d/1mw-xfnPG1g5fEBkReEEV5JsgKVvQPYkl/view?usp=sharing](https://drive.google.com/file/d/1mw-xfnPG1g5fEBkReEEV5JsgKVvQPYkl/view?usp=sharing)
 
-- ⚡ Fun fact **I love keep exploring.**
+- ⚡ Fun fact : **I love keep exploring.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
