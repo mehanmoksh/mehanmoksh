@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moksh Mehan</h1>
-<h3 align="center">A passionate software developer and problem solver. Having experience in building various backend java applications and have a great proficiency in data structures and algorithms. I believe my communication skills, always helps me to stand out in every suspect and I had led many projects in my college time too and have great management and leading skills too.</h3>
+<h3 align="center">A passionate software developer with extensive experience in building backend Java applications and a deep knowledge of data structures and algorithms. Strong communication skills have always helped me stand out, and I've successfully led numerous college projects, showcasing excellent management and leadership abilities.</h3>
 
 - 🔭 I’m currently working on **a backend music making application using Java MIDI API**
 
