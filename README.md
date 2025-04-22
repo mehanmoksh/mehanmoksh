@@ -15,7 +15,7 @@
 
 - 💬 Ask me about : **Java, Data structures and algorithms, python, C++ and software development.**
 
-- 📫 How to reach me : **itsmokshswork2002@gmail.com**
+- 📫 How to reach me : **itzmemoksh2002@gmail.com**
 
 - 📄 Know about my experiences : [https://drive.google.com/file/d/1mw-xfnPG1g5fEBkReEEV5JsgKVvQPYkl/view?usp=sharing](https://drive.google.com/file/d/1mw-xfnPG1g5fEBkReEEV5JsgKVvQPYkl/view?usp=sharing)
 
