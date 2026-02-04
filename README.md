@@ -4,12 +4,18 @@
 🔭 Currently working as: Associate Software Engineer
 <br>
 💼 Experience: React, Tailwind CSS, HTML, CSS, Bootstrap, Angular
+<br>
 🧠 Also worked with: WordPress (custom plugins), Laravel (PHP), Node.js, Django
+<br>
 📱 Focus: Responsive UI, clean architecture, performance-optimized apps
+<br>
 
 🌱 Currently improving: Advanced React patterns & system fundamentals
+<br>
 👯 Open to collaborating on: Frontend & full-stack projects
+<br>
 🧑🏼‍💻 Open to: Frontend / Full-Stack opportunities
+<br>
 
 👨‍💻 Projects: https://github.com/mehanmoksh
 
