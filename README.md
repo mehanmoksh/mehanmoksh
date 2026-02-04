@@ -2,6 +2,7 @@
 <h3 align="center">A results-driven Associate Software Engineer with 1.5+ years of hands-on experience building production-ready web applications. I specialize in frontend development with strong exposure to full-stack systems and real-world project delivery.</h3>
 
 🔭 Currently working as: Associate Software Engineer
+<br>
 💼 Experience: React, Tailwind CSS, HTML, CSS, Bootstrap, Angular
 🧠 Also worked with: WordPress (custom plugins), Laravel (PHP), Node.js, Django
 📱 Focus: Responsive UI, clean architecture, performance-optimized apps
